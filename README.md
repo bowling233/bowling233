@@ -26,3 +26,15 @@ Freshman @[ZJU](https://www.zju.edu.cn/english/). Learning everything.
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
+## Status
+
+![Bowling's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandians&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiandians)
+
+## Repo
+
+![TechStack](https://github-readme-stats.vercel.app/api/pin/?username=tiandians&repo=Techstack)
+
+![Phymodel](https://github-readme-stats.vercel.app/api/pin/?username=tiandians&repo=Phymodel)
