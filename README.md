@@ -32,7 +32,7 @@ Freshman @[ZJU](https://www.zju.edu.cn/english/). Learning everything.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiandians&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tiandians' github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiandians&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiandians&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiandians&repo=Techstack&hide_border=true" /> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiandians&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bowling&custom_title=Week%20Coding%20Time&layout=compact&hide_border=true" /> |
 
 ## Forever ❤️ Love For
 
