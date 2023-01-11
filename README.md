@@ -30,8 +30,6 @@ Freshman @[ZJU](https://www.zju.edu.cn/english/). Learning everything.
 
 ## Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiandians&show_icons=true&locale=en&layout=compact" alt="tiandians" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiandians&show_icons=true&locale=en" alt="tiandians" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiandians&" alt="tiandians" /></p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiandians&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tiandians' github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiandians&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiandians&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiandians&repo=Techstack&hide_border=true" /> |
