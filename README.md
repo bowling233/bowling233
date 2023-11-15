@@ -31,9 +31,9 @@ Sophomore [@ZJU](https://www.zju.edu.cn/english/). Learning computer science.
 
 ## Status
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiandians&show_icons=true&include_all_commits=true&hide_border=true" alt="tiandians' github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiandians&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bowling233&show_icons=true&include_all_commits=true&hide_border=true" alt="bowling233' github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bowling233&hide_border=true" /> |
 | ------------- | ------------- |
-|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiandians&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bowling&layout=compact&custom_title=Week%20Coding%20Time&hide_border=true" /> |
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowling233&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bowling&layout=compact&custom_title=Week%20Coding%20Time&hide_border=true" /> |
 
 ## Forever ❤️ Love For
 
