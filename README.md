@@ -1,11 +1,12 @@
 # Hi 👋, I'm Bowling
 
-Freshman @[ZJU](https://www.zju.edu.cn/english/). Learning everything.
+Sophomore [@ZJU](https://www.zju.edu.cn/english/). Learning computer science.
 
 ## Work
 
-- 🌱 I’m currently learning Linux and "Have Fun!"
-- 📝 I regularly write articles on [Bowling's TechStack](https://note.bowling233.top/)
+- 🌱 I'm currently learning Linux and "Have Fun!"
+- 🖥 I'm new member of [@ZJUSCT](https://github.com/ZJUSCT), focusing on CUDA and OpenMP/MPI programming.
+- 📝 I regularly write notes on [Bowling's TechStack](https://note.bowling233.top/)
 
 ## Skills
 
